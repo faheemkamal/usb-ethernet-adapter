@@ -9,10 +9,10 @@ Ubuntu/Linux 14.04 LTS.
 ### Install
 ``` 
 make 
-make load
+make install
 ```
 
 ### Uninstall 
 ```
-make unload 
+make uninstall
 ```
